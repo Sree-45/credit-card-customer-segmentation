@@ -146,21 +146,3 @@ Results and Insights
 -   **Data-Driven Decision Making:**\
     The clustering model supports informed decisions in customer relationship management.
 
-Contributing
-------------
-
-Contributions, issues, and feature requests are welcome. Please refer to the repository's issues page for more details.
-
-License
--------
-
-This project is distributed under the MIT License. See the LICENSE file for more information.
-
-Contact Information
--------------------
-
--   **Name:** Your Name
-
--   **Email:** your.email@example.com
-
--   **Project Repository:** <https://github.com/yourusername/your-repository-name>
